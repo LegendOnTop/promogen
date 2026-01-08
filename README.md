@@ -88,3 +88,6 @@ async function getVerificationLink(emailUser, emailPass, quiet = false) {
 [@ai.legend](https://discord.com/users/766665610049486868)
 [Join our Discord](https://discord.gg/recaptcha)
 
+NEXT LEAK ON 10 FOLLOWERS.
+
+
