@@ -64,8 +64,6 @@ The bot will automatically:
 ## Output Files
 
 - `saved.txt`: Successfully registered accounts (email:password format)
-- `promo.txt`: Discord Nitro promotional links
-- `input/mails.txt`: Source email credentials (updated as emails are processed)
 
 ## Implementing OTP Fetching
 
@@ -89,5 +87,6 @@ async function getVerificationLink(emailUser, emailPass, quiet = false) {
 [Join our Discord](https://discord.gg/recaptcha)
 
 NEXT LEAK ON 10 FOLLOWERS.
+
 
 
