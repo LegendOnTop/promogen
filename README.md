@@ -10,7 +10,6 @@
 - **Window Organization**: Automatically arranges browser windows on screen (1-8 threads)
 - **Email Queue System**: Each thread processes multiple emails sequentially
 - **Account Saving**: Automatically saves verified accounts in `email:password` format
-- **Discord Nitro Monitoring**: Detects and extracts Discord Nitro promotional links from emails
 
 ## Requirements
 
@@ -87,6 +86,7 @@ async function getVerificationLink(emailUser, emailPass, quiet = false) {
 [Join our Discord](https://discord.gg/recaptcha)
 
 NEXT LEAK ON 10 FOLLOWERS.
+
 
 
 
